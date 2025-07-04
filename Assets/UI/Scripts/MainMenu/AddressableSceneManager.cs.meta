@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: fcf62115189ce6f478573ed327896015
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CanvasCrossLoader: {fileID: 1803453434104558325, guid: e4203123fe4315248aed1efacc888ba5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

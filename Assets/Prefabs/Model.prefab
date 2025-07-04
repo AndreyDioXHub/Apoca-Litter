@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6158145280052569264
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5378530182162093107}
+  - component: {fileID: 6731555111258229516}
+  - component: {fileID: 3588068629058824174}
+  - component: {fileID: 7487213086718054457}
+  - component: {fileID: 5572841286055887500}
+  - component: {fileID: 4910171870262465128}
+  - component: {fileID: 8763624001812046404}
+  - component: {fileID: 8260016975842884291}
+  - component: {fileID: 2301734470529547510}
+  - component: {fileID: 3655243049225528601}
+  m_Layer: 0
+  m_Name: Model
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5378530182162093107
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6158145280052569264}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6731555111258229516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6158145280052569264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c5056c35bc13df4ea989eb64e2e38a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _player: {fileID: 0}
+  _internalInventory: {fileID: 0}
+--- !u!114 &3588068629058824174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6158145280052569264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b361a36d476811d4ba8e337733766a00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OnWin:
+    m_PersistentCalls:
+      m_Calls: []
+  OnFall:
+    m_PersistentCalls:
+      m_Calls: []
+  _playerKillsCount: 0
+--- !u!114 &7487213086718054457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6158145280052569264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 709fa7ab65597f749a55d945a796ec59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NavMeshReady: 0
+--- !u!114 &5572841286055887500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6158145280052569264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c12223a2918e0c640981d045ad21cb0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OnMouseSensitivityChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  OnAudioLVLChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  OnBotDieFromKiller:
+    m_PersistentCalls:
+      m_Calls: []
+  OnLevelContinue:
+    m_PersistentCalls:
+      m_Calls: []
+  OnNextLevel:
+    m_PersistentCalls:
+      m_Calls: []
+  OnOpenMainMenu:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &4910171870262465128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6158145280052569264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d66ac4a3439990469fe3555ca759684, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OnEnemyCount:
+    m_PersistentCalls:
+      m_Calls: []
+  OnSurvivorPrepare:
+    m_PersistentCalls:
+      m_Calls: []
+  OnTimeCountDown:
+    m_PersistentCalls:
+      m_Calls: []
+  OnWaveStarted:
+    m_PersistentCalls:
+      m_Calls: []
+  OnWaveEnded:
+    m_PersistentCalls:
+      m_Calls: []
+  OnWavePaused:
+    m_PersistentCalls:
+      m_Calls: []
+  _spawnType: 0
+  _patrolPoints: []
+  _botsData: []
+--- !u!114 &8763624001812046404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6158145280052569264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f14fe5c3a8531c45a890da0e8925578, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8260016975842884291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6158145280052569264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AgentTypeID: 0
+  m_CollectObjects: 0
+  m_Size: {x: 10, y: 10, z: 10}
+  m_Center: {x: 0, y: 2, z: 0}
+  m_LayerMask:
+    serializedVersion: 2
+    m_Bits: 895
+  m_UseGeometry: 0
+  m_DefaultArea: 0
+  m_GenerateLinks: 0
+  m_IgnoreNavMeshAgent: 1
+  m_IgnoreNavMeshObstacle: 1
+  m_OverrideTileSize: 0
+  m_TileSize: 256
+  m_OverrideVoxelSize: 0
+  m_VoxelSize: 0.1
+  m_MinRegionArea: 2
+  m_NavMeshData: {fileID: 0}
+  m_BuildHeightMesh: 0
+--- !u!114 &2301734470529547510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6158145280052569264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e24474be084ef39418ddceedf4ac7711, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _targetPoints: []
+  _useTargetPoints: 0
+  _time: 3
+  _timeCur: 0
+--- !u!114 &3655243049225528601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6158145280052569264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 159627fc8c2a25e419376958dbd9ead4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bioMass: []
+  _bioMassMaxCount: 20
+  BotTargetsInited: 0
+  WeaponTargetsInited: 0

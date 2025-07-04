@@ -1,0 +1,374 @@
+{
+    "bots":  [
+                 {
+                     "speed":  "6",
+                     "type":  "2",
+                     "name":  "Figure",
+                     "link":  "FigureSkin",
+                     "xp":  "10",
+                     "theme":  "doors",
+                     "icon":  "Figure",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "10",
+                     "type":  "1",
+                     "name":  "Rush",
+                     "link":  "Rush",
+                     "xp":  "10",
+                     "theme":  "doors",
+                     "icon":  "Obunga",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "8",
+                     "type":  "5",
+                     "name":  "Seek",
+                     "link":  "Seek",
+                     "xp":  "10",
+                     "theme":  "doors",
+                     "icon":  "Seek",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "3",
+                     "name":  "Barry\u0027s Prison",
+                     "link":  "BarrysPrison",
+                     "xp":  "10",
+                     "theme":  "escape barry prison",
+                     "icon":  "Barry\u0027s Prison",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "4",
+                     "name":  "Bonnie",
+                     "link":  "Bonnie",
+                     "xp":  "10",
+                     "theme":  "fnaf",
+                     "icon":  "Bonnie",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "2",
+                     "name":  "Chica",
+                     "link":  "Chica",
+                     "xp":  "10",
+                     "theme":  "fnaf",
+                     "icon":  "Chica",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "7",
+                     "type":  "5",
+                     "name":  "Freddy Fazbear",
+                     "link":  "FreddyFazbear",
+                     "xp":  "10",
+                     "theme":  "fnaf",
+                     "icon":  "Freddy Fazbear",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "5",
+                     "type":  "3",
+                     "name":  "Granny",
+                     "link":  "GrannySkin",
+                     "xp":  "10",
+                     "theme":  "granny",
+                     "icon":  "Granny",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "7",
+                     "type":  "5",
+                     "name":  "Venom",
+                     "link":  "VenomSkin",
+                     "xp":  "10",
+                     "theme":  "marvel",
+                     "icon":  "Venom",
+                     "attack":  "9"
+                 },
+                 {
+                     "speed":  "5",
+                     "type":  "4",
+                     "name":  "Creep",
+                     "link":  "Creep",
+                     "xp":  "5",
+                     "theme":  "monster school",
+                     "icon":  "Creep",
+                     "attack":  "0"
+                 },
+                 {
+                     "speed":  "5",
+                     "type":  "4",
+                     "name":  "Enderman",
+                     "link":  "Enderman",
+                     "xp":  "5",
+                     "theme":  "monster school",
+                     "icon":  "Enderman",
+                     "attack":  "0"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "4",
+                     "name":  "Herobrine",
+                     "link":  "HerobrineSkin",
+                     "xp":  "8",
+                     "theme":  "monster school",
+                     "icon":  "Herobrine",
+                     "attack":  "0"
+                 },
+                 {
+                     "speed":  "5",
+                     "type":  "4",
+                     "name":  "Skeleton",
+                     "link":  "SkeletonSkin",
+                     "xp":  "5",
+                     "theme":  "monster school",
+                     "icon":  "Skeleton",
+                     "attack":  "0"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "4",
+                     "name":  "Spider",
+                     "link":  "Spider",
+                     "xp":  "5",
+                     "theme":  "monster school",
+                     "icon":  "Spider",
+                     "attack":  "0"
+                 },
+                 {
+                     "speed":  "4",
+                     "type":  "4",
+                     "name":  "Villager",
+                     "link":  "VillagerSkin",
+                     "xp":  "10",
+                     "theme":  "monster school",
+                     "icon":  "Villager",
+                     "attack":  "0"
+                 },
+                 {
+                     "speed":  "4",
+                     "type":  "4",
+                     "name":  "Zombie Villagers",
+                     "link":  "ZombiSkin",
+                     "xp":  "5",
+                     "theme":  "monster school",
+                     "icon":  "Zombie Villagers",
+                     "attack":  "0"
+                 },
+                 {
+                     "speed":  "16",
+                     "type":  "0",
+                     "name":  "Naruto",
+                     "link":  "NarutoSkin",
+                     "xp":  "8",
+                     "theme":  "naruto",
+                     "icon":  "Naruto",
+                     "attack":  "7"
+                 },
+                 {
+                     "speed":  "7",
+                     "type":  "3",
+                     "name":  "Angry Munci",
+                     "link":  "Angry Munci",
+                     "xp":  "10",
+                     "theme":  "nextbot",
+                     "icon":  "Angry Munci",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "8",
+                     "type":  "5",
+                     "name":  "Obunga",
+                     "link":  "Obunga",
+                     "xp":  "10",
+                     "theme":  "nextbot",
+                     "icon":  "Rush",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "0",
+                     "name":  "Rosalia",
+                     "link":  "Rosalia",
+                     "xp":  "10",
+                     "theme":  "nextbot",
+                     "icon":  "Rosalia",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "1",
+                     "name":  "Selene Delgado",
+                     "link":  "Selene Delgado",
+                     "xp":  "10",
+                     "theme":  "nextbot",
+                     "icon":  "Selene Delgado",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "7",
+                     "type":  "5",
+                     "name":  "Huggy Wuggy",
+                     "link":  "HuggyWuggy",
+                     "xp":  "10",
+                     "theme":  "poppy",
+                     "icon":  "Huggy Wuggy",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "1",
+                     "name":  "Miss Delight",
+                     "link":  "MissDeligh",
+                     "xp":  "5",
+                     "theme":  "poppy",
+                     "icon":  "Miss Delight",
+                     "attack":  "7"
+                 },
+                 {
+                     "speed":  "5",
+                     "type":  "3",
+                     "name":  "Detainer Astro Toilet",
+                     "link":  "DetainerAstroToilet",
+                     "xp":  "8",
+                     "theme":  "skibidi",
+                     "icon":  "Detainer Astro Toilet",
+                     "attack":  "7"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "2",
+                     "name":  "G-Man",
+                     "link":  "G-Man",
+                     "xp":  "10",
+                     "theme":  "skibidi",
+                     "icon":  "G-Man",
+                     "attack":  "9"
+                 },
+                 {
+                     "speed":  "25",
+                     "type":  "2",
+                     "name":  "Skibidi",
+                     "link":  "Skibidi",
+                     "xp":  "8",
+                     "theme":  "skibidi",
+                     "icon":  "Skibidi",
+                     "attack":  "8"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "1",
+                     "name":  "Titan Cameraman",
+                     "link":  "TitanCameraman",
+                     "xp":  "9",
+                     "theme":  "skibidi",
+                     "icon":  "Titan Cameraman",
+                     "attack":  "8"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "5",
+                     "name":  "Titan TVman",
+                     "link":  "TitanTVman",
+                     "xp":  "9",
+                     "theme":  "skibidi",
+                     "icon":  "Titan TVman",
+                     "attack":  "9"
+                 },
+                 {
+                     "speed":  "8",
+                     "type":  "1",
+                     "name":  "Bobby BearHug",
+                     "link":  "BobbyBearHug",
+                     "xp":  "10",
+                     "theme":  "smiling",
+                     "icon":  "Bobby BearHug",
+                     "attack":  "9"
+                 },
+                 {
+                     "speed":  "5",
+                     "type":  "4",
+                     "name":  "Catnap",
+                     "link":  "Catnap",
+                     "xp":  "10",
+                     "theme":  "smiling",
+                     "icon":  "Catnap",
+                     "attack":  "8"
+                 },
+                 {
+                     "speed":  "7",
+                     "type":  "2",
+                     "name":  "Dogday",
+                     "link":  "DogDaySkin",
+                     "xp":  "10",
+                     "theme":  "smiling critters",
+                     "icon":  "Dogday",
+                     "attack":  "8"
+                 },
+                 {
+                     "speed":  "9",
+                     "type":  "3",
+                     "name":  "Hoppy Hopscotch",
+                     "link":  "HoppyHopscotchSkin",
+                     "xp":  "5",
+                     "theme":  "smiling critters",
+                     "icon":  "Hoppy Hopscotch",
+                     "attack":  "8"
+                 },
+                 {
+                     "speed":  "10",
+                     "type":  "3",
+                     "name":  "Shin Sonic",
+                     "link":  "ShinSonic",
+                     "xp":  "8",
+                     "theme":  "sonik",
+                     "icon":  "Shin Sonic",
+                     "attack":  "7"
+                 },
+                 {
+                     "speed":  "5",
+                     "type":  "5",
+                     "name":  "Monster Bear",
+                     "link":  "MonsterBear",
+                     "xp":  "10",
+                     "theme":  "zoonomaly",
+                     "icon":  "Monster Bear",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "8",
+                     "type":  "1",
+                     "name":  "Monster Smile Cat",
+                     "link":  "MonsterSmileCat",
+                     "xp":  "10",
+                     "theme":  "zoonomaly",
+                     "icon":  "Monster Smile Cat",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "8",
+                     "type":  "3",
+                     "name":  "Smile Cat",
+                     "link":  "SmileCat",
+                     "xp":  "10",
+                     "theme":  "zoonomaly",
+                     "icon":  "Smile Cat",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "1",
+                     "name":  "Zookeepers",
+                     "link":  "ZookeeperSkin",
+                     "xp":  "10",
+                     "theme":  "zoonomaly",
+                     "icon":  "Zookeepers",
+                     "attack":  "8"
+                 }
+             ]
+}

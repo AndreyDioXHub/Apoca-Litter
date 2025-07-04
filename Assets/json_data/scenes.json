@@ -1,0 +1,90 @@
+{
+  "sandbox_scenes": [
+    {
+      "scene_name": "GameSurvivorGM",
+      "title": "Главная карта",
+      "preview_icon": "gm_preview",
+      "bot_attack_distance": 7,
+      "jetpack_fuel_time": 2,
+      "kill_bots_on_start": false
+    },
+    {
+      "scene_name": "GameSurvivorMaze",
+      "title": "Лабиринт",
+      "preview_icon": "maze_preview",
+      "bot_attack_distance": 7,
+      "jetpack_fuel_time": 2,
+      "kill_bots_on_start": false
+    },
+    {
+      "scene_name": "GameSurvivorGranny",
+      "title": "Дом бабушки",
+      "preview_icon": "granny_house",
+      "bot_attack_distance": 7,
+      "jetpack_fuel_time": 2,
+      "kill_bots_on_start": false
+    },
+    {
+      "scene_name": "GameSurvivorObby",
+      "title": "Полоса препятствий",
+      "preview_icon": "obby_preview",
+      "bot_attack_distance": 7,
+      "jetpack_fuel_time": 2,
+      "kill_bots_on_start": false
+    },
+    {
+      "scene_name": "GameSurvivorPrison",
+      "title": "Тюрьма",
+      "preview_icon": "prison_preview",
+      "bot_attack_distance": 7,
+      "jetpack_fuel_time": 2,
+      "kill_bots_on_start": false
+    },
+    {
+      "scene_name": "GameSurvivorSchoolMine",
+      "title": "Школьная шахта",
+      "preview_icon": "school_mine_preview",
+      "bot_attack_distance": 2,
+      "jetpack_fuel_time": 2,
+      "kill_bots_on_start": false
+    }
+  ],
+  "mission_scenes": [
+    {
+      "scene_name": "GameSurvivorGM",
+      "title": "Главная карта",
+      "preview_icon": "gm_preview",
+      "kills_required": 30
+    },
+    {
+      "scene_name": "GameSurvivorMaze",
+      "title": "Лабиринт",
+      "preview_icon": "maze_preview",
+      "kills_required": 30
+    },
+    {
+      "scene_name": "GameSurvivorGranny",
+      "title": "Дом бабушки",
+      "preview_icon": "granny_house",
+      "kills_required": 30
+    },
+    {
+      "scene_name": "GameSurvivorObby",
+      "title": "Полоса препятствий",
+      "preview_icon": "obby_preview",
+      "kills_required": 30
+    },
+    {
+      "scene_name": "GameSurvivorPrison",
+      "title": "Тюрьма",
+      "preview_icon": "prison_preview",
+      "kills_required": 30
+    },
+    {
+      "scene_name": "GameSurvivorSchoolMine",
+      "title": "Школьная шахта",
+      "preview_icon": "school_mine_preview",
+      "kills_required": 30
+    }
+  ]
+}

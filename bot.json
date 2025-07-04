@@ -1,0 +1,337 @@
+{
+    "bots":  [
+                 {
+                     "speed":  "6",
+                     "type":  "2",
+                     "name":  "Silhouette",
+                     "link":  "SilhouetteSkin",
+                     "xp":  "10",
+                     "theme":  "doors",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "10",
+                     "type":  "1",
+                     "name":  "Blitz",
+                     "link":  "BlitzSkin",
+                     "xp":  "10",
+                     "theme":  "doors",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "8",
+                     "type":  "5",
+                     "name":  "Tracker",
+                     "link":  "TrackerSkin",
+                     "xp":  "10",
+                     "theme":  "doors",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "3",
+                     "name":  "Ironhold",
+                     "link":  "IronholdSkin",
+                     "xp":  "10",
+                     "theme":  "escape barry prison",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "4",
+                     "name":  "Bluebell",
+                     "link":  "BluebellSkin",
+                     "xp":  "10",
+                     "theme":  "fnaf",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "2",
+                     "name":  "Sunny",
+                     "link":  "SunnySkin",
+                     "xp":  "10",
+                     "theme":  "fnaf",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "7",
+                     "type":  "5",
+                     "name":  "Teddy Nightwatch",
+                     "link":  "TeddyNightwatchSkin",
+                     "xp":  "10",
+                     "theme":  "fnaf",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "5",
+                     "type":  "3",
+                     "name":  "Elder Maiden",
+                     "link":  "ElderMaidenSkin",
+                     "xp":  "10",
+                     "theme":  "granny",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "7",
+                     "type":  "5",
+                     "name":  "Toxin",
+                     "link":  "ToxinSkin",
+                     "xp":  "10",
+                     "theme":  "marvel",
+                     "attack":  "9"
+                 },
+                 {
+                     "speed":  "5",
+                     "type":  "4",
+                     "name":  "Shadow Lurker",
+                     "link":  "ShadowLurkerSkin",
+                     "xp":  "5",
+                     "theme":  "monster school",
+                     "attack":  "0"
+                 },
+                 {
+                     "speed":  "5",
+                     "type":  "4",
+                     "name":  "Void Walker",
+                     "link":  "VoidWalkerSkin",
+                     "xp":  "5",
+                     "theme":  "monster school",
+                     "attack":  "0"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "4",
+                     "name":  "Nether Phantom",
+                     "link":  "NetherPhantomSkin",
+                     "xp":  "8",
+                     "theme":  "monster school",
+                     "attack":  "0"
+                 },
+                 {
+                     "speed":  "5",
+                     "type":  "4",
+                     "name":  "Bone Warden",
+                     "link":  "BoneWardenSkin",
+                     "xp":  "5",
+                     "theme":  "monster school",
+                     "attack":  "0"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "4",
+                     "name":  "Web Weaver",
+                     "link":  "WebWeaverSkin",
+                     "xp":  "5",
+                     "theme":  "monster school",
+                     "attack":  "0"
+                 },
+                 {
+                     "speed":  "4",
+                     "type":  "4",
+                     "name":  "Townfolk",
+                     "link":  "TownfolkSkin",
+                     "xp":  "10",
+                     "theme":  "monster school",
+                     "attack":  "0"
+                 },
+                 {
+                     "speed":  "4",
+                     "type":  "4",
+                     "name":  "Rotting Townsfolk",
+                     "link":  "RottingTownsfolkSkin",
+                     "xp":  "5",
+                     "theme":  "monster school",
+                     "attack":  "0"
+                 },
+                 {
+                     "speed":  "16",
+                     "type":  "0",
+                     "name":  "Windblade Ninja",
+                     "link":  "WindbladeNinjaSkin",
+                     "xp":  "8",
+                     "theme":  "naruto",
+                     "attack":  "7"
+                 },
+                 {
+                     "speed":  "7",
+                     "type":  "3",
+                     "name":  "Furious Sprout",
+                     "link":  "FuriousSproutSkin",
+                     "xp":  "10",
+                     "theme":  "nextbot",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "8",
+                     "type":  "5",
+                     "name":  "Dark Jester",
+                     "link":  "DarkJesterSkin",
+                     "xp":  "10",
+                     "theme":  "nextbot",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "0",
+                     "name":  "Crimson Bloom",
+                     "link":  "CrimsonBloomSkin",
+                     "xp":  "10",
+                     "theme":  "nextbot",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "1",
+                     "name":  "Lunar Enigma",
+                     "link":  "LunarEnigmaSkin",
+                     "xp":  "10",
+                     "theme":  "nextbot",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "7",
+                     "type":  "5",
+                     "name":  "Snuggle Terror",
+                     "link":  "SnuggleTerrorSkin",
+                     "xp":  "10",
+                     "theme":  "poppy",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "1",
+                     "name":  "Joyful Specter",
+                     "link":  "JoyfulSpecterSkin",
+                     "xp":  "5",
+                     "theme":  "poppy",
+                     "attack":  "7"
+                 },
+                 {
+                     "speed":  "5",
+                     "type":  "3",
+                     "name":  "Cosmic Throne",
+                     "link":  "CosmicThroneSkin",
+                     "xp":  "8",
+                     "theme":  "skibidi",
+                     "attack":  "7"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "2",
+                     "name":  "Mysterious Agent",
+                     "link":  "MysteriousAgentSkin",
+                     "xp":  "10",
+                     "theme":  "skibidi",
+                     "attack":  "9"
+                 },
+                 {
+                     "speed":  "25",
+                     "type":  "2",
+                     "name":  "Toilet-T",
+                     "link":  "ToiletTSkin",
+                     "xp":  "8",
+                     "theme":  "skibidi",
+                     "attack":  "8"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "1",
+                     "name":  "Lens Colossus",
+                     "link":  "LensColossusSkin",
+                     "xp":  "9",
+                     "theme":  "skibidi",
+                     "attack":  "8"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "5",
+                     "name":  "Screen Behemoth",
+                     "link":  "ScreenBehemothSkin",
+                     "xp":  "9",
+                     "theme":  "skibidi",
+                     "attack":  "9"
+                 },
+                 {
+                     "speed":  "8",
+                     "type":  "1",
+                     "name":  "Cuddly Guardian",
+                     "link":  "CuddlyGuardianSkin",
+                     "xp":  "10",
+                     "theme":  "smiling",
+                     "attack":  "9"
+                 },
+                 {
+                     "speed":  "5",
+                     "type":  "4",
+                     "name":  "Dreamcatcher",
+                     "link":  "DreamcatcherSkin",
+                     "xp":  "10",
+                     "theme":  "smiling",
+                     "attack":  "8"
+                 },
+                 {
+                     "speed":  "7",
+                     "type":  "2",
+                     "name":  "Sunhowl",
+                     "link":  "SunhowlSkin",
+                     "xp":  "10",
+                     "theme":  "smiling critters",
+                     "attack":  "8"
+                 },
+                 {
+                     "speed":  "9",
+                     "type":  "3",
+                     "name":  "Bounce Bunny",
+                     "link":  "BounceBunnySkin",
+                     "xp":  "5",
+                     "theme":  "smiling critters",
+                     "attack":  "8"
+                 },
+                 {
+                     "speed":  "10",
+                     "type":  "3",
+                     "name":  "Azure Blur",
+                     "link":  "AzureBlurSkin",
+                     "xp":  "8",
+                     "theme":  "sonik",
+                     "attack":  "7"
+                 },
+                 {
+                     "speed":  "5",
+                     "type":  "5",
+                     "name":  "Beastly Bruin",
+                     "link":  "BeastlyBruinSkin",
+                     "xp":  "10",
+                     "theme":  "zoonomaly",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "8",
+                     "type":  "1",
+                     "name":  "Grinning Fiend",
+                     "link":  "GrinningFiendSkin",
+                     "xp":  "10",
+                     "theme":  "zoonomaly",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "8",
+                     "type":  "3",
+                     "name":  "Cheery Whiskers",
+                     "link":  "CheeryWhiskersSkin",
+                     "xp":  "10",
+                     "theme":  "zoonomaly",
+                     "attack":  "10"
+                 },
+                 {
+                     "speed":  "6",
+                     "type":  "1",
+                     "name":  "Wild Guardians",
+                     "link":  "WildGuardiansSkin",
+                     "xp":  "10",
+                     "theme":  "zoonomaly",
+                     "attack":  "8"
+                 }
+             ]
+}

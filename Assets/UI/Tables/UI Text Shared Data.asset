@@ -1,0 +1,588 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: db761b1d257d70946adfbde13d5c04f2
+  m_Entries:
+  - m_Id: 149437038592
+    m_Key: WaitingScreenPlayButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3655002767360
+    m_Key: 'WaitingScreenWaitingText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7805807640576
+    m_Key: InGameInfoScreenAtantionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14837176614912
+    m_Key: InGameInfoScreenKillScoreText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399387673247744
+    m_Key: AddedBulletScreenPistolTextInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 405304611454976
+    m_Key: AddedBulletScreenGrenadeTextInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 405807042936832
+    m_Key: AddedBulletScreenGrenadeLaunchedTextInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406166419292160
+    m_Key: AddedBulletScreenRocketTextInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407475851640832
+    m_Key: AddedBulletScreenRifleTextInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407899174354944
+    m_Key: AddedBulletScreenSMGTextInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 408383008292864
+    m_Key: AddedBulletScreenShotgunTextInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 408763335196672
+    m_Key: AddedBulletScreenSniperRifleTextInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 583238395641856
+    m_Key: MenuCanvasPlayerNameText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 583863875420160
+    m_Key: 'MenuCanvasPlayerNameInputField '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 584126451433472
+    m_Key: MenuCanvasPlayButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 584446732681216
+    m_Key: MenuCanvasLeaveButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 584680422522880
+    m_Key: MenuEquipmentButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 584963462545408
+    m_Key: MenuCanvasSkinButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 585206732177408
+    m_Key: MenuCanvasSettingButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 585451713085440
+    m_Key: MenuCanvasSelectBodyMenuBodyLabelText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 585864629731328
+    m_Key: MenuCanvasSelectBodyMenuCloseText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 586167735304192
+    m_Key: MenuCanvasSelectBodyMenuSeletButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 587095674732544
+    m_Key: MenuCanvasSelectBodyMenuCategoriesLabelText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 589376340115456
+    m_Key: MenuCanvasSelectBodyMenuHairCutLabelText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 589729169162240
+    m_Key: 'MenuCanvasSelectBodyMenuHairColorLabelText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 590527148081152
+    m_Key: MenuCanvasSelectBodyMenuFaceLabelText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 591107136438272
+    m_Key: 'MenuCanvasSelectBodyMenuBodyLabelText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 601037914521600
+    m_Key: 'MenuCanvasSelectBodyMenuTShirtLabelText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 601422825799680
+    m_Key: 'MenuCanvasSelectBodyMenuPantsLabelText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 601925890621440
+    m_Key: 'MenuCanvasSelectBodyMenuShoesLabelText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 642998356688896
+    m_Key: ChatCloseNotificationText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 643195883241472
+    m_Key: ChatOpenNotificationText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 660775079526400
+    m_Key: 'WeaponScreenExitToMenuButtonText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 733534828642304
+    m_Key: WaitingScreenLeaveButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 744344233721856
+    m_Key: SettingScreenAudioLVL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 744501817917440
+    m_Key: SettingScreenDrillAudioLVL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 744638300569600
+    m_Key: SettingScreenmousesetcivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 744763437629440
+    m_Key: 'SettingScreenDrawingDistance '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 945476495228928
+    m_Key: 'TeleportScreenReturnText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 984082605686784
+    m_Key: 'LoseScreenLeaveButtonText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 983905031438336
+    m_Key: 'LoseScreenLabelText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1027214621818880
+    m_Key: 'SettingScreenSoundMusicText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1035238899990528
+    m_Key: 'SettingScreenSelectLanguageLabelText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1035620208361472
+    m_Key: SettingScreenSelectLanguageDropdownRussian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1035714638921728
+    m_Key: SettingScreenSelectLanguageDropdownEnglish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1091604255621120
+    m_Key: SettingScreenSelectLanguageButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1374172767076352
+    m_Key: 'ChatOpenInventoryNotificationText  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1434539065098240
+    m_Key: 'NextStepToNewGameText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1453870511570944
+    m_Key: 'WeaponStatisticInfoScreenText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454698387488768
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454747741863936
+    m_Key: 'WeaponStatisticInfoTitleDrillTextt '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455950097825792
+    m_Key: WeaponStatisticInfoTitleShotGunText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1456431364849664
+    m_Key: WeaponStatisticInfoTitleAR01Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1457030609256448
+    m_Key: 'WeaponStatisticInfoTitleAR02Text  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1457267520323584
+    m_Key: 'WeaponStatisticInfoTitleAR03Text '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1458053356732416
+    m_Key: WeaponStatisticInfoTitleSMG01Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1459211622170624
+    m_Key: WeaponStatisticInfoTitleSMG02Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1459267788095488
+    m_Key: WeaponStatisticInfoTitleSMG03Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1459530699653120
+    m_Key: WeaponStatisticInfoTitleSMG04Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1459670856515584
+    m_Key: WeaponStatisticInfoTitleSMG05Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1460026193756160
+    m_Key: WeaponStatisticInfoTitlePistol01Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1460319983779840
+    m_Key: WeaponStatisticInfoTitlePistol02Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1460461939998720
+    m_Key: WeaponStatisticInfoTitlePistol03Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1460509574709248
+    m_Key: WeaponStatisticInfoTitlePistol04Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1460846503149568
+    m_Key: 'WeaponStatisticInfoTitleSR01Text '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1461307398438912
+    m_Key: WeaponStatisticInfoTitleSR02Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1461535824429056
+    m_Key: WeaponStatisticInfoTitleSR03Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1461780239106048
+    m_Key: 'WeaponStatisticInfoTitleGL01Text '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1462011848572928
+    m_Key: 'WeaponStatisticInfoTitleRL01Text '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1643631603892224
+    m_Key: 'SuperInfoScreenNewWaveStartedText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1645191771734016
+    m_Key: ' SuperInfoScreenNewWaveMineText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2120334402928640
+    m_Key: ConnectionButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2120580478550016
+    m_Key: 'CreateNewGameButtonText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2121511165247488
+    m_Key: 'CreateNewGameScreenLabelText  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2121944818532352
+    m_Key: 'CreateNewGameScreenNotificationText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2450503252590592
+    m_Key: 'WaitingScreenSteamIDKey  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2464198351405056
+    m_Key: 'NewSteamGameConnectionScreenInputField  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2470496589594624
+    m_Key: 'MenuCanvasExitGameButtonText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2480479939084288
+    m_Key: 'WaitingScreenCoppyNotificationText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24261895844544512
+    m_Key: EquipmentButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24885453155221504
+    m_Key: WeaponScreenBuyNewWeaponText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25011035591426048
+    m_Key: 'WeaponScreenBuyNewWeaponLabelText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25011346703925248
+    m_Key: WeaponScreenBuyAmmoLabelText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25016640972537856
+    m_Key: WeaponScreenEquipedWeaponsInfoLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25016844455002112
+    m_Key: EquipedWeapon1InfoTableLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25017005264617472
+    m_Key: EquipedWeapon2InfoTableLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25745236368310272
+    m_Key: LoseScreenRespawnButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29260462388690944
+    m_Key: InGameInfoScreenFindChestText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29260990090854400
+    m_Key: 'InGameInfoScreenChestTaskTimerText  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29334298840809472
+    m_Key: 'SuperInfoScreenSuccessChest '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29334753285259264
+    m_Key: SuperInfoScreenFailChest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29362409452093440
+    m_Key: ChestMarker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29535559229915136
+    m_Key: WaitingScreenCheckPointSelectText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29627114502504448
+    m_Key: WaitingScreenSelectRespawnText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29686316797280256
+    m_Key: 'DealerZoneGetTaskButton  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29686433960968192
+    m_Key: 'DealerZonePushTaskButton '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29686985243508736
+    m_Key: DealerZoneWrongDealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29687504074719232
+    m_Key: DealerZoneTaskLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29687952374513664
+    m_Key: DealerZoneMarketLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29689217158496256
+    m_Key: DealerZoneHealButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29690127725117440
+    m_Key: 'DealerZoneAmmoButton '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29691127991123968
+    m_Key: 'DealerZoneLabel '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29693225336061952
+    m_Key: DealerZoneExitButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29916259389030400
+    m_Key: SuperInfoScreenGetTask
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29952928116916224
+    m_Key: NoAmmoLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30063744703021056
+    m_Key: 'DealerZoneInfoMenuLabel  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30065213107879936
+    m_Key: 'DealerZoneInfoMenuInfoText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30079308741754880
+    m_Key: DealerZoneHealButtonAds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30079817385000960
+    m_Key: DealerZoneAmmoButtonAds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30082740739391488
+    m_Key: 'DealerZoneGetTaskButtonAds  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30105694827200512
+    m_Key: 'SettingScreenUseAutoAimLabelText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30107539201081344
+    m_Key: SettingScreenUseAimAssistLabelText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30254381591183360
+    m_Key: PlayerMenuExtraButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30291371871191040
+    m_Key: 'ExtraSkinMenuSpinButtonText '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30746155455627264
+    m_Key: ResumeTheGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30846092872794112
+    m_Key: PlayerCanvasNextWeapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30969015948296192
+    m_Key: SettingScreenRenderQualityText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31743941055627264
+    m_Key: DealerZoneGetTaskButtonAdsTimer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31744812413894656
+    m_Key: DealerZoneAmmoButtonAdsTimer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31745515299553280
+    m_Key: DealerZoneHealButtonAdsTimer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31891354642825216
+    m_Key: "MenuCanvas\u0417\u0449\u0434\u0448\u0441\u043DButtonText"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31893242822017024
+    m_Key: PrivacyPolicyLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31894725072273408
+    m_Key: PrivacyPolicyText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31896153467666432
+    m_Key: TermOfUseLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31896578736537600
+    m_Key: TermOfUseText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32163162780614656
+    m_Key: MenuPlayLocalGameText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32163373808631808
+    m_Key: MenuServerListButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32164150807642112
+    m_Key: MenuConnectionErrorLable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32165562757169152
+    m_Key: MenuConnectionErrorText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32200492207849472
+    m_Key: MenuServerListLable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32200919682924544
+    m_Key: MenuRefreshServerListText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32206509205372928
+    m_Key: ButtonServerText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32222207713492992
+    m_Key: MenuRefreshServerListTimerText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32295305997467648
+    m_Key: ServerTextFromServer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32619692168593408
+    m_Key: BuyNewWeaponCoinsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32660072687747072
+    m_Key: Kill2Zombie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33948355770204160
+    m_Key: ServerInfoText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33969503513886720
+    m_Key: WrongAppVersionLabelText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33970427938488320
+    m_Key: WrongAppVersionNotificationText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36548724576763904
+    m_Key: ExtraSkinInfoText
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2309653331919503360
+  references:
+    version: 2
+    RefIds:
+    - rid: 2309653331919503360
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1742665047026
